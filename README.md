@@ -72,7 +72,7 @@
 - <h4> <a href="https://github.com/DylanDrechsel/DylanDrechsel.com"> Portfolio Website </a> ---> <a href="https://www.dylandrechsel.com/"> Link </a> </h4> 
 - <h4> <a href="https://github.com/DylanDrechsel/dungeon-dive"> Dungeon Dive </a> <h4> -->
  
-
+<!-- 
 ---
 
 ### I’m currently learning:
@@ -105,7 +105,7 @@
 
 ---
 
-
+ -->
 <!---
 Here are some ideas to get you started:
 
