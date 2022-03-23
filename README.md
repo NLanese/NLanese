@@ -1,5 +1,5 @@
 <p align="right">
-<a href="https://www.linkedin.com/in/nick-lanese/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="dylan-drechsel" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nick-lanese/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Nick-Lanese" height="30" width="30" /></a>
 </p>
 
 ![OoudKw2P](https://user-images.githubusercontent.com/78124357/116292016-3e138680-a763-11eb-8e54-ecce68f276ec.gif)
