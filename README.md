@@ -9,7 +9,7 @@
 
 ## Hello World! I'm Nick Lanese!
 
-#### I am a Full Stack Developer who is fresh to the world of coding! Uniquely talented in finding alternative solutions to difficult to approach tasks, I approach every day eager to learn new techniques as well as face new challenges. Thank you for visiting my page, and sharing in my journy in the world of development!
+#### I am a Full Stack Developer who is fresh to the world of coding! Uniquely talented in finding alternative solutions to otherwise arduous and tedious tasks, I approach every day eager to learn new techniques as well as face new challenges. Thank you for visiting my page, and sharing in my journy in the world of development!
 
 ---
 
